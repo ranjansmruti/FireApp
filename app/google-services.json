@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "372705450758",
+    "firebase_url": "https://fireapp-5d596.firebaseio.com",
+    "project_id": "fireapp-5d596",
+    "storage_bucket": "fireapp-5d596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372705450758:android:c9f4d938cae5c174",
+        "android_client_info": {
+          "package_name": "com.example.reaper.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372705450758-ktuu0682tcevd00rdb6qh5kuue77hc6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRdZVTPi56DoapOpkm7GnDLBjk6qkASdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372705450758-ktuu0682tcevd00rdb6qh5kuue77hc6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
